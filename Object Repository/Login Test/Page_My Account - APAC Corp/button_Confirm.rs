@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm</name>
+   <tag></tag>
+   <elementGuidId>38442dc4-3bd8-498d-bbad-a60c2a30da8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.button.cta.confirm-button.-b2 > button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__apdialog_js-alert']/div/div/div/div[4]/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Confirm&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>38ee448e-7a58-4315-a07c-370340543f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm</value>
+      <webElementGuid>76dc66b0-f398-48cb-a7da-4a4a635fdc56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__apdialog_js-alert&quot;)/div[@class=&quot;__dialogwrapper&quot;]/div[@class=&quot;__dialogwrapper-inner&quot;]/div[@class=&quot;__dialogmain&quot;]/div[@class=&quot;db-wrapper -bs2&quot;]/div[@class=&quot;__dialogbuttons unselectable&quot;]/div[@class=&quot;button cta confirm-button -b2&quot;]/button[1]</value>
+      <webElementGuid>7a18ceb1-1cee-4784-9d60-d05b13381d31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__apdialog_js-alert']/div/div/div/div[4]/div/div[2]/button</value>
+      <webElementGuid>10e8f4e3-a610-451b-8eb7-2d6d058f97ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::button[1]</value>
+      <webElementGuid>e650a9b7-b9c0-4781-9a83-19b5f98cc3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please confirm to logout'])[1]/following::button[2]</value>
+      <webElementGuid>d07594d2-1914-44b3-9364-22c1a9477a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Important'])[1]/preceding::button[1]</value>
+      <webElementGuid>da8d43d3-d82d-47f1-bc50-fe031514e8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::button[1]</value>
+      <webElementGuid>2cfc1bbe-150f-4789-a6b4-e1333f9133e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>e8159921-e2d4-4926-9b1a-46547dc397de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Confirm' or . = 'Confirm')]</value>
+      <webElementGuid>3f9bfdaf-85f1-439f-8597-73f96d9b3764</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

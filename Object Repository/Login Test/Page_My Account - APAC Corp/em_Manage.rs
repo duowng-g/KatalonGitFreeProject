@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Manage</name>
+   <tag></tag>
+   <elementGuidId>c0962115-3549-4b6e-982e-4efc90f0cbba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.action.-right.url.unselectable.js-floated-container > em</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_uuid51874_26767_1726889307_36']/div/div/div/div[2]/div/div[2]/em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>94a654af-322f-4f91-a9af-f18ca0a2cff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage</value>
+      <webElementGuid>1db3be55-699a-4e2b-9679-343f5536043f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_uuid51874_26767_1726889307_36&quot;)/div[@class=&quot;-apc-wrapper&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;primary-account&quot;]/div[@class=&quot;account-actions&quot;]/div[@class=&quot;actions&quot;]/div[@class=&quot;action -right url unselectable js-floated-container&quot;]/em[1]</value>
+      <webElementGuid>f713f078-1c74-434a-b5a2-13db75082718</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_uuid51874_26767_1726889307_36']/div/div/div/div[2]/div/div[2]/em</value>
+      <webElementGuid>5c439d1c-1c8a-4129-b47d-d8f501b1aaba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personalized'])[1]/following::em[1]</value>
+      <webElementGuid>ebddb5e3-9776-4b17-9438-17ffe88c5ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APAC Corp.'])[2]/following::em[2]</value>
+      <webElementGuid>b5bba523-8e6d-4306-b186-250b941ea24b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch to this account'])[1]/preceding::em[1]</value>
+      <webElementGuid>9cb0cc24-1381-42d2-b4eb-a4c8440b9b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage account'])[1]/preceding::em[1]</value>
+      <webElementGuid>3f48ea84-e62b-4bee-93f9-166e78802929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage']/parent::*</value>
+      <webElementGuid>302024b9-b2d8-47e2-bbf4-9c9762f890e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/em</value>
+      <webElementGuid>64b2ebe7-5fcb-4cad-9173-9231e3b2759c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'Manage' or . = 'Manage')]</value>
+      <webElementGuid>c2c96099-5152-44d8-9ecb-50deb6013e9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
